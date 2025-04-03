@@ -7,7 +7,6 @@
     "start": "mcp-server --port 4444 --tools ./tools"
   },
   "dependencies": {
-    "@modelcontextprotocol/server": "^0.0.1"
-
+    "@modelcontextprotocol/server": "github:modelcontextprotocol/server"
   }
 }
